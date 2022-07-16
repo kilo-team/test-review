@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        now the commit refers the cardinal 
         <a
           className="App-link"
           href="https://reactjs.org"
